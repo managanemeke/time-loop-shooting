@@ -1,9 +1,9 @@
 # time-loop-shooting
 
-1. [takes](takes.md)
-2. [films](films.md)
-3. [locations](locations.md)
-4. [props](props.md)
-5. [roles](roles.md)
-6. [scenes](scenes.md)
-7. [materials](materials.md)
+1. [Кадры (takes)](takes.md)
+2. [Фильмы (films)](films.md)
+3. [Локации (locations)](locations.md)
+4. [Реквизит (props)](props.md)
+5. [Роли (roles)](roles.md)
+6. [Сцены (scenes)](scenes.md)
+7. [Материалы (materials)](materials.md)
